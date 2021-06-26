@@ -1,0 +1,12 @@
+[submodule "dex2jar"]
+	path = dex2jar
+	url = https://github.com/pxb1988/dex2jar.git
+	branch = 2.x
+[submodule "tachiwebui/src/main/js/tachiweb-react"]
+	path = tachiwebui/src/main/js/tachiweb-react
+	url = https://github.com/Ligerx/TachiWeb-React
+	branch = master
+[submodule "bootui/tachiweb-bootstrap"]
+	path = bootui/tachiweb-bootstrap
+	url = https://github.com/TachiWeb/TachiWeb-Bootstrap.git
+	branch = master
